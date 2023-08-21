@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
 
-author "Dev-CasperTheGhost"
+author "MateHUN | .Scripts"
 description "TODO"
 version "0.0.0"
 
